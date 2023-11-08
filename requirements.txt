@@ -20,7 +20,7 @@ matplotlib
 cython
 nltk
 pillow
-gym==0.15.4
+gym>=0.15.4<0.26
 tqdm
 pipreqs
 h5py
